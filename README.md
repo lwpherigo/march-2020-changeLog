@@ -10,8 +10,7 @@ workOut, eatVegan, codeSomething, takeCourses, meditate, applyForJob
 
 #### March 3rd, 2020
 
-EAT VEGAN - coffee, smoothie, protein balls, rice bowl, oreos lol
-
-APPLY FOR JOB - 1
+- eatVegan
+- applyForJob
 
 #### March 4th, 2020
