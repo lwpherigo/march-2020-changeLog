@@ -11,6 +11,6 @@ workOut, eatVegan, codeSomething, takeCourses, meditate, applyForJob
 #### March 3rd, 2020
 
 - eatVegan
-- applyForJob
+- applyForJob - 1
 
 #### March 4th, 2020
