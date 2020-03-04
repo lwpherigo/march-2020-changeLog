@@ -7,10 +7,15 @@ This is a repo to track my progress in various areas, not just code. Initially i
 #### Categories
 
 WORK OUT
+
 EAT VEGAN
+
 BUILD CODE
+
 TAKE COURSE
+
 MEDITATE
+
 APPLY FOR JOB
 
 ##### March 3rd, 2020
