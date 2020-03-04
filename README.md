@@ -6,12 +6,15 @@ This is a repo to track my progress in various areas, not just code. Initially i
 
 #### Categories
 
-• WORK OUT
-• EAT VEGAN
-• BUILD CODE
-• TAKE COURSE
-• MEDITATE
-• APPLY FOR JOB
+WORK OUT
+EAT VEGAN
+BUILD CODE
+TAKE COURSE
+MEDITATE
+APPLY FOR JOB
 
 ##### March 3rd, 2020
-• EAT VEGAN - coffee, smoothie, protein balls, etc.
+EAT VEGAN - coffee, smoothie, protein balls, rice bowl, oreos lol
+APPLY FOR JOB - 1
+
+##### March 4th, 2020
